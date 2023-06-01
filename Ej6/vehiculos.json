@@ -1,0 +1,209 @@
+{
+    "__class__": "ListaVehiculos",
+    "vehiculos": [
+        {
+            "__class__": "VehiculoNuevo", 
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 2000000,       
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo", 
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 4,
+                "color": "Negro",
+                "precio_base": 1500000,
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Ka",
+                "puertas": 2,
+                "color": "Rojo",
+                "precio_base": 1000000,
+                "version": "Base"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Negro",
+                "precio_base": 2000000,
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Rojo",
+                "precio_base": 2000000,
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Ka",
+                "puertas": 2,
+                "color": "Rojo",
+                "precio_base": 1000000,
+                "version": "Base"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 2000000,
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 1500000,
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 4,
+                "color": "Rojo",
+                "precio_base": 1500000,
+                "version": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 2000000,
+                "version": "Base"
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Palio",
+                "puertas": 4,
+                "color": "Rojo",
+                "precio_base": 100000,
+                "marca": "Fiat",
+                "patente": "ABC123",
+                "año": "2010",
+                "kilometraje": 50000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 5,
+                "color": "Azul",
+                "precio_base": 150000,
+                "marca": "Ford",
+                "patente": "XYZ789",
+                "año": "2008",
+                "kilometraje": 80000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Golf",
+                "puertas": 3,
+                "color": "Negro",
+                "precio_base": 120000,
+                "marca": "Volkswagen",
+                "patente": "DEF456",
+                "año": "2012",
+                "kilometraje": 60000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Corsa",
+                "puertas": 3,
+                "color": "Plata",
+                "precio_base": 90000,
+                "marca": "Chevrolet",
+                "patente": "GHI789",
+                "año": "2006",
+                "kilometraje": 90000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Clio",
+                "puertas": 5,
+                "color": "Blanco",
+                "precio_base": 80000,
+                "marca": "Renault",
+                "patente": "JKL012",
+                "año": "2005",
+                "kilometraje": 100000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Corolla",
+                "puertas": 4,
+                "color": "Gris",
+                "precio_base": 150000,
+                "marca": "Toyota",
+                "patente": "MNO345",
+                "año": "2014",
+                "kilometraje": 40000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Sentra",
+                "puertas": 4,
+                "color": "Plateado",
+                "precio_base": 110000,
+                "marca": "Nissan",
+                "patente": "PQR678",
+                "año": "2009",
+                "kilometraje": 75000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Civic",
+                "puertas": 4,
+                "color": "Blanco",
+                "precio_base": 110000,
+                "marca": "Honda",
+                "patente": "PAA678",
+                "año": "2009",
+                "kilometraje": 75000
+            }
+        }
+    ]
+}
