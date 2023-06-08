@@ -1,0 +1,209 @@
+{
+    "__class__": "ManejadorVehiculos",
+    "vehiculos": [
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Civic",
+                "puertas": 4,
+                "color": "Blanco",
+                "precio_base": 110000,
+                "__marca__": "Honda",
+                "__patente__": "PAA678",
+                "__a\u00f1o__": "2009",
+                "__kilometraje__": 75000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Sentra",
+                "puertas": 4,
+                "color": "Plateado",
+                "precio_base": 110000,
+                "__marca__": "Nissan",
+                "__patente__": "PQR678",
+                "__a\u00f1o__": "2009",
+                "__kilometraje__": 75000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Corolla",
+                "puertas": 4,
+                "color": "Gris",
+                "precio_base": 150000,
+                "__marca__": "Toyota",
+                "__patente__": "MNO345",
+                "__a\u00f1o__": "2014",
+                "__kilometraje__": 40000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Clio",
+                "puertas": 5,
+                "color": "Blanco",
+                "precio_base": 80000,
+                "__marca__": "Renault",
+                "__patente__": "JKL012",
+                "__a\u00f1o__": "2005",
+                "__kilometraje__": 100000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Corsa",
+                "puertas": 3,
+                "color": "Plata",
+                "precio_base": 90000,
+                "__marca__": "Chevrolet",
+                "__patente__": "GHI789",
+                "__a\u00f1o__": "2006",
+                "__kilometraje__": 90000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Golf",
+                "puertas": 3,
+                "color": "Negro",
+                "precio_base": 120000,
+                "__marca__": "Volkswagen",
+                "__patente__": "DEF456",
+                "__a\u00f1o__": "2012",
+                "__kilometraje__": 60000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 5,
+                "color": "Azul",
+                "precio_base": 150000,
+                "__marca__": "Ford",
+                "__patente__": "XYZ789",
+                "__a\u00f1o__": "2008",
+                "__kilometraje__": 80000
+            }
+        },
+        {
+            "__class__": "VehiculoViejo",
+            "__atributos__": {
+                "modelo": "Palio",
+                "puertas": 4,
+                "color": "Rojo",
+                "precio_base": 100000,
+                "__marca__": "Fiat",
+                "__patente__": "ABC123",
+                "__a\u00f1o__": "2010",
+                "__kilometraje__": 50000
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 2000000,
+                "__version__": "Base"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 4,
+                "color": "Rojo",
+                "precio_base": 1500000,
+                "__version__": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 1500000,
+                "__version__": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 2000000,
+                "__version__": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Ka",
+                "puertas": 2,
+                "color": "Rojo",
+                "precio_base": 1000000,
+                "__version__": "Base"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Rojo",
+                "precio_base": 2000000,
+                "__version__": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Negro",
+                "precio_base": 2000000,
+                "__version__": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Ka",
+                "puertas": 2,
+                "color": "Rojo",
+                "precio_base": 1000000,
+                "__version__": "Base"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Focus",
+                "puertas": 4,
+                "color": "Negro",
+                "precio_base": 1500000,
+                "__version__": "Full"
+            }
+        },
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "Fiesta",
+                "puertas": 4,
+                "color": "Azul",
+                "precio_base": 2000000,
+                "__version__": "Full"
+            }
+        }
+    ]
+}
